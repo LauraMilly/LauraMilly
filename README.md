@@ -1,5 +1,5 @@
-- 👋 Oii, me chamo Laura Mirelly
-- 🌱 Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau
+- Oii, me chamo Laura Mirelly
+-  Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau
 - Sempre em busca de me desenvolver como profissional
 - Uma curiosidade: falo dois idiomas 
 
