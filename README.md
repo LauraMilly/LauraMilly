@@ -5,7 +5,7 @@
 - Me chamo Laura Mirelly
 - Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau
 - Sempre em busca de me desenvolver como profissional
-- Línguas: Português/Inglês 
+- Idiomas: Português/Inglês 
 
 
 <div style="display: inline_block"><br>
