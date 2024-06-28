@@ -1,6 +1,6 @@
 
 
-## Oiii,sou a Laura, desenvolvedora Front End e aluna de Pyhton!
+## Oiii,sou a Laura, desenvolvedora Front End e aluna de Pyhton.
 
 - Me chamo Laura Mirelly
 - Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau
