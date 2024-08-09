@@ -2,7 +2,7 @@
 
 ## Oiii, eu sou a Laura 👋. Desenvolvedora Front End e aluna em Pyhton. 🤓
 
-- Eu me chamo Laura Mirelly
+- Meu nome é Laura Mirelly
 - Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau
 - Sempre em busca de me desenvolver como profissional
 - Idiomas: Português/Inglês 
