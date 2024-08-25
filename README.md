@@ -11,7 +11,7 @@
 ###
 
 
-<img align="right" height="150" src="https://media.tenor.com/bHdpUU6H2_cAAAAi/new.gif"/>
+<img align="right" height="150" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"/>
 
 ###
 
