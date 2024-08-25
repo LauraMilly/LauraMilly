@@ -10,7 +10,8 @@
 
 ###
 
- <div class="tenor-gif-embed" data-postid="7815831476255579127" data-share-method="host" data-aspect-ratio="1.23267" data-width="100%"><a href="https://tenor.com/view/new-gif-7815831476255579127">New Sticker</a>from <a href="https://tenor.com/search/new-stickers">New Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/new-gif-7815831476255579127"  />
 
 ###
 
