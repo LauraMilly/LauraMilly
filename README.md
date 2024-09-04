@@ -1,4 +1,4 @@
-<h2 align="left">Oiii, eu sou a Laura.👋🤓.</h2>
+<h2 align="left">Oiii, eu sou a Laura👋🤓.</h2>
 
 ###
 
