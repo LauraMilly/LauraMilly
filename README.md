@@ -14,20 +14,20 @@
 
 <img align="right" width="320" src="https://media.tenor.com/2roX7XdSJi0AAAAi/anime-girl-typing.gif"/>
 
-## 🌷 Sobre mim
+## Sobre mim
 
-- 💻 Dev **Full Stack** — back em **Python** e **Java**, front (minha especialidade 💅) com **React**, **TypeScript** e **Tailwind CSS**
-- 📊 Também atuo como **Analista de Dados**, usando **Power BI** e **Pandas** pra transformar dado bruto em insight bonito
-- 🗄️ Banco de dados: **SQL**, com carinho especial pelo **MySQL**
-- 🌸 Apaixonada por **jogos** e por tudo que é **fofo**, inclusive código bem organizado, porque isso também é fofo pra mim
-- 🚀 Sempre aprendendo algo novo e melhorando o que já sei
-- 💬 Me chama pra trocar ideia sobre tech, dados ou o último jogo que joguei!
+- Dev **Full Stack** — back em **Python** e **Java**, front (minha especialidade 💅) com **React**, **TypeScript** e **Tailwind CSS**
+- Também atuo como **Analista de Dados**, usando **Power BI** e **Pandas** pra transformar dado bruto em insight bonito
+- Banco de dados: **SQL**, com carinho especial pelo **MySQL**
+- Apaixonada por **jogos** e por tudo que é **fofo**, inclusive código bem organizado, porque isso também é fofo pra mim
+- Sempre aprendendo algo novo e melhorando o que já sei
+- Me chama pra trocar ideia sobre tech, dados ou o último jogo que joguei!
 
 <br clear="right"/>
 
 <br>
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 <br>
 
-## 🌐 Vamos nos conectar
+## Vamos nos conectar
 
 <div align="center">
   <a href="https://www.instagram.com/_luamilly_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
