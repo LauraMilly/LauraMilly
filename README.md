@@ -19,9 +19,9 @@
 - 💻 Dev **Full Stack** — back em **Python** e **Java**, front (minha especialidade 💅) com **React**, **TypeScript** e **Tailwind CSS**
 - 📊 Também atuo como **Analista de Dados**, usando **Power BI** e **Pandas** pra transformar dado bruto em insight bonito
 - 🗄️ Banco de dados: **SQL**, com carinho especial pelo **MySQL**
-- 🌸 Apaixonada por **animes** e por tudo que é **fofo** — inclusive código bem organizado, porque isso também é fofo pra mim
+- 🌸 Apaixonada por **jogos** e por tudo que é **fofo**, inclusive código bem organizado, porque isso também é fofo pra mim
 - 🚀 Sempre aprendendo algo novo e melhorando o que já sei
-- 💬 Me chama pra trocar ideia sobre tech, dados ou o último anime que assisti!
+- 💬 Me chama pra trocar ideia sobre tech, dados ou o último jogo que joguei!
 
 <br clear="right"/>
 
@@ -54,21 +54,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
-
-</div>
-
-<br>
-
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lualink__&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&icon_color=c9a7ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lualink__&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&text_color=ffffff"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lualink__&theme=radical&hide_border=true&background=1a1b27&ring=ff6ec7&fire=c9a7ff&currStreakLabel=ff6ec7"/>
 
 </div>
 
