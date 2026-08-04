@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-- Dev **Full Stack** — back em **Python** e **Java**, front (minha especialidade 💅) com **React**, **TypeScript** e **Tailwind CSS**
+- Dev **Full Stack** — back em **Python** e **Java**, front (minha especialidade) com **React**, **TypeScript** e **Tailwind CSS**
 - Também atuo como **Analista de Dados**, usando **Power BI** e **Pandas** pra transformar dado bruto em insight bonito
 - Banco de dados: **SQL**, com carinho especial pelo **MySQL**
 - Apaixonada por **jogos** e por tudo que é **fofo**, inclusive código bem organizado, porque isso também é fofo pra mim
